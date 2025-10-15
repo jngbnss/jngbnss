@@ -1,4 +1,4 @@
-# 👋 Hi, I'm jngbnss
+# 👋 wassssssssup, I'm jngbnss
 
 > Backend Developer wannabe | Java & Spring Learner | Fitness Enthusiast  
 
@@ -24,3 +24,5 @@
 🎧 Rock & Hiphop  
 🏃 Running clears my mind  
 💬 Always learning, always improving
+
+made by my forgood slave chatgpt
