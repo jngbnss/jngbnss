@@ -1,28 +1,36 @@
-## Hi there 👋 I'm jngbnss
-
-🎯 **Backend Developer in progress**  
-💻 I love solving problems with clean and efficient code.  
-🌱 Currently learning **Spring Boot**, **JPA**, and **Computer Science fundamentals**  
-⚙️ Mainly coding in **Java**, sometimes **Python** and **C++**  
-🏋️‍♂️ Fitness & Running are part of my daily routine  
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/jngbnss">jngbnss</a></h1>
+<h3 align="center">🌱 Backend Developer & CS Learner</h3>
 
 ---
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jngbnss&layout=compact&theme=tokyonight)
-![jngbnss's GitHub stats](https://github-readme-stats.vercel.app/api?username=jngbnss&show_icons=true&theme=tokyonight)
+### 💡 About Me
+- 🚀 Passionate about **Spring Boot** and **Java Backend**
+- 📚 Learning **CS fundamentals** step-by-step (OS, DB, Network)
+- 🧩 Love solving problems with algorithms
+- 🏋️‍♂️ Enjoy **fitness**, **running**, and self-discipline routines
+- 🎧 Listening to **rock & hiphop** while coding
 
 ---
 
-### 🧠 Currently Working On
-- MVC pattern practice (Console projects)
-- Backend fundamentals (Spring, JPA)
-- Algorithms & Data Structures
+### ⚙️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00648B?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-### 📫 Reach Me
-- Email: [soon-to-add@example.com](mailto:soon-to-add@example.com)
-- GitHub: [github.com/jngbnss](https://github.com/jngbnss)
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jngbnss&show_icons=true&theme=radical" alt="jngbnss stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jngbnss&layout=compact&theme=radical" height="150"/>
+</p>
 
-✨ _"Code hard, stay humble."_ ✨
+---
+
+### 🧠 Fun Fact
+> "I don't chase motivation — I chase progress."  
+> 🏋️ Running, lifting, and coding — all about consistency.
