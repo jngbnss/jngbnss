@@ -42,10 +42,10 @@
 ---
 
 ### 🌏 A Little About Me
+- 🎖 Served as a Sergeant in the **8th Mechanized Infantry Division**, specialized as a **Mortar Observation Soldier**, honorably discharged  
+- 🎓 **Mechanical Engineering graduate**, formerly worked as a **semiconductor equipment engineer**  
 - 🤝 Love connecting with people from different cultures  
 - 💬 English learner — feel free to chat with me!  
-- ✈️ Dreaming of working as a **global backend developer**
-
----
+- ✈️ Dreaming of working as a **global backend developer** — that's why I decided to become a programmer. Wish me luck, guys! 
 
 
