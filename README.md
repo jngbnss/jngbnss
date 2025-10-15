@@ -38,23 +38,14 @@
 
 ### ⚡ Fun
 🏋️‍♂️ Passionate about **fitness** — weight training & running  
-🎧 Music keeps me focused — usually **rock & hiphop**  
-🧩 I treat coding like training — consistent effort, small gains, big results  
-😎 Favorite quote: *“Progress beats perfection.”*
 
 ---
 
 ### 🌏 A Little About Me
-- 🌇 Born & raised in **Gwangmyeong, Korea**
 - 🤝 Love connecting with people from different cultures  
 - 💬 English learner — feel free to chat with me!  
 - ✈️ Dreaming of working as a **global backend developer**
 
 ---
 
-### 🐍 Just for Fun
-![snake gif](https://github.com/jngbnss/jngbnss/blob/output/github-contribution-grid-snake.svg)
 
----
-
-✨ _“Code hard, lift heavy, stay humble.”_ ✨
