@@ -12,6 +12,7 @@
 - 🧠 Learning **CS fundamentals** (OS, DB, Network)
 
 ---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jngbnmn)](https://solved.ac/jngbnmn/)
 
 ### 🧰 Tech I Use
 `Java` `Spring` `JPA` `MySQL` `Git` `VSCode` `IntelliJ IDEA` `C++` `DEV C++`
