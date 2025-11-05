@@ -1,5 +1,8 @@
-# 👋 Hey there, I'm jngbnss from 🇰🇷 Korea  
-(Do you know Psy, BTS, Son Heung-min, K-pop Demon Hunters, Kimchi, Bulgogi, Samsung, LG?)
+# 
+Through high mountains and deep valleys, in the silent land,
+We march along the snow-covered front line.
+Where young souls once fell, in that very place,
+The wounded old pine stands speechless.
 
 > 💻 Backend Developer wannabe | ☕ Java & Spring Learner | 🏋️ Fitness Enthusiast  
 
